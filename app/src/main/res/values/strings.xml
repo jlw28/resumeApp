@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Resume</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Contact Information -->
+    <string name="name">Jamie Wimsatt</string>
+    <string name="address"></string>
+    <string name="email">jwimsatt@mail.usf.edu</string>
+    <string name="phone"></string>
+
+    <!--Education Info-->
+    <string name="degreename">Bachelor of Science in Computer Science</string>
+    <string name="college">USF</string>
+    <string name="graddate">Fall 2015</string>
+    <string name="gpa">3.20</string>
+
+    <!--Work Experience-->
+    <string name="position1">Software Development Intern</string>
+    <string name="company1">Nitro Mobile Solutions</string>
+    <string name="dates1">May 2015 to November 2015</string>
+
+    <!--Extracurricular Activities-->
+    <string name="clubs_acm">Association for Computing Machinery</string>
+    <string name="clubs_wdd">Web Development and Design</string>
+</resources>
